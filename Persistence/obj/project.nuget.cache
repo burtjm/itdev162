@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BIuIfi7bQ2jLLt/eKsrU1SWe/WFGg6R9F0QFfs3OcWCy+8ZZfFqh4FbhEd9ixQF3zPLe3BD3rJI+lwN480fifA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\janmb\\Desktop\\itdev162\\janelle-burt\\itdev162\\Persistence\\Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
